@@ -8,9 +8,9 @@ And a [LinkedIn](https://www.linkedin.com/in/chandler-barlow-791439152/)</br>
 Go ahead and shoot me an email or call me if you're interested!<br/>
 </br>
 Thanks, </br>
-*Chandler Barlow*
-
-ps.
+*Chandler Barlow*</br>
+*Email: chandlerbrlw@gmail.com*</br>
+*Phone: 972-838-5969*</br>
 ```
 const viewResume = employer => { 
  let newJob = false;

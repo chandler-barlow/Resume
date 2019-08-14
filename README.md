@@ -1,103 +1,120 @@
 ## Resume
-If you would like a pdf version I included on in this repo.</br>
 
-# Chandler Barlow 
+_A PDF version is included in this repo_</br>
 
-885 Jewel street Vidor Texas | 972-838-5969 
+# **Chandler Barlow**
 
-Email chandlerbrlw@gmail.com | GitHub https://github.com/chandler-barlow  
+Address: 885 Jewel street Vidor Texas | Phone: 972-838-5969 </br>
+Email: chandlerbrlw@gmail.com | GitHub: https://github.com/chandler-barlow </br>
 
-Work Experience: 
+---
 
-Software Engineering Intern 
+## **Work Experience**
 
-Shuttle (셔틀) , Seoul South Korea, May 2019 – August 2019 
+**Software Engineering Intern**
 
-Competitive Korean startup company specializing in food delivery 
+_[Shuttle (셔틀)](https://www.shuttledelivery.co.kr/en)_ - Seoul South Korea ( May 2019 – August 2019 )
 
-Developed a React web application for managing restaurant menus 
+Competitive Korean startup company specializing in food delivery
 
-Used Redux to manage application state 
+- Developed a React web application for managing restaurant menus
 
-Developed inside of Docker containers 
+- Used Redux to manage application state
 
-Education: 
+- Developed inside of Docker containers
 
-Lamar University, Beaumont Texas, currently attending 
+---
 
-Computer Science Student 
+## **Education**
 
-Consistently on Dean’s List 
+_Lamar University_ - Beaumont Texas ( August 2017 - Present )
 
-Cardinal Elite Scholar 
+- Computer Science Student
 
-Excelled in Algorithms and Data Structures 
+- Consistently on Dean’s List
 
-Seoul National University of Science and Technology, South Korea, Feb 2019 – June 2019 
+- Cardinal Elite Scholar
 
-Foreign Exchange Student Studying Computer Science 
+- Excelled in Algorithms and Data Structures
+  </br>
+  </br>
 
-Skills: 
+_Seoul National University of Science and Technology_ - South Korea ( Feb 2019 – June 2019 )
 
-JavaScript 
+- Foreign Exchange Student Studying Computer Science
 
-Python 
+---
 
-Java 
+## **Skills**
 
-React/Redux 
+**Languages**</br>
 
-Docker 
+- JavaScript
+- Python
+- Java
+  </br>
 
-APIs 
+**Tools**
 
-Node 
+- Docker
+- Virtual Machines
+- Git
+- Bash scripting
+  </br>
 
-Bash Scripting 
+**Frameworks & Libraries**
 
- 
+- React
+- Redux
+- Express
+- Node
+- Beautiful Soup
+- Ant Design
+- Material-UI
+- JavaFx
 
-Web Scraping 
+---
 
-Personal Projects: 
+## **Personal Projects**
 
-Exercise Tracker (React, Redux, Express, Docker, SQL, Ant Design UI ) 
+**[Exercise Tracker](https://github.com/chandler-barlow/Node-Excercise-Tracking-API)** (React, Redux, Express, Docker, SQL, Ant Design UI )
 
-A full stack web application to keep track of personal weightlifting progress. 
+- A full stack web application to keep track of personal weightlifting progress.
 
-Gif App ( React ) 
+**[Gif App](https://chandler-gif-app.herokuapp.com/)** ( React )
 
-A web app for finding gifs to download or share with friends. 
+- A web app for finding gifs to download or share with friends.
 
-Random Cocktail Generator  ( JQuery ) 
+**[Random Cocktail Generator](https://chandler-barlow.github.io/Random-Cocktail-Generator/)** ( JQuery )
 
-Created a website that delivers a random cocktail recipe to the user. 
+- Created a website that delivers a random cocktail recipe to the user.
 
-Blog 
+**[Blog](https://medium.com/@chandlerbrlw)**
 
-I maintain a personal blog where I write articles on technology/coding.  
+- I maintain a personal blog where I write articles on technology/coding.
 
-Accomplishments: 
+---
 
-Earned Eagle Scout Award, 2017 
+## **Accomplishments**
 
-Gave a talk at a Cardinal Community event about studying Computer Science abroad 
+- Earned Eagle Scout Award
 
-Licensed amateur radio operator 
-## Also</br>
-I have a [Blog](https://medium.com/@chandlerbrlw)</br>
-And a [LinkedIn](https://www.linkedin.com/in/chandler-barlow-791439152/)</br>
-Go ahead and shoot me an email or call me if you're interested!<br/>
-</br>
-Thanks, </br>
-*Chandler Barlow*</br>
-*Email: chandlerbrlw@gmail.com*</br>
-*Phone: 972-838-5969*</br>
-```
-const viewResume = employer => { 
- let newJob = false;
- //employer.hire generally returns true 
- if (employer.interested()) newJob = employer.hire("Chandler Barlow");
- return newJob;
+- Gave a talk at a Cardinal Community event about studying Computer Science abroad
+
+---
+
+---
+
+_Thanks for reading,_ </br>
+_Chandler Barlow_ </br>
+Email: chandlerbrlw@gmail.com</br>
+Phone: 972-838-5969
+
+```javascript
+const viewResume = employer => {
+  let newJob = false;
+  //employer.hire() generally returns true
+  if (employer.interested()) newJob = employer.hire("Chandler Barlow");
+  return newJob;
 };
 ```

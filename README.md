@@ -13,7 +13,7 @@ Email: chandlerbrlw@gmail.com | GitHub: https://github.com/chandler-barlow </br>
 
 **Software Engineering Intern**
 
-_[Shuttle (셔틀)](https://www.shuttledelivery.co.kr/en)_ - Seoul South Korea ( May 2019 – August 2019 )
+_[Shuttle (셔틀)](https://www.shuttledelivery.co.kr/en)_ - Seoul South Korea ( May 2019 – Jan 2020 )
 
 Competitive Korean startup company specializing in food delivery
 
